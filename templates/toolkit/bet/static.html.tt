@@ -13,7 +13,7 @@
          <select id="contract_markets"></select>
       </div>
       <div >
-         <select id="underlying"></select>
+         <select id="underlying ui "></select>
          <span class="unicode-info-icon" id="symbol_tip" target="">&#9432;</span>
          <label for="spot" id="spot_label"></label>
          <span id="spot"></span>
